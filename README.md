@@ -34,7 +34,7 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=LuciosGIT&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=LuciosGIT&theme=tokyonight" alt="GitHub Streak"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LuciosGIT&theme=tokyonight" alt="Linguagens mais usadas"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuciosGIT&layout=compact&langs_count=6&theme=tokyonight" alt="Linguagens mais usadas"/>
 </div>
 
 ---
