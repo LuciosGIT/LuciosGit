@@ -1,7 +1,7 @@
-<h1 align="center">Olá! Eu sou José Lúcio👋</h1>
+<h1 align="center">Olá! Eu sou José Lúcio 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Desenvolvedor+Java;Estudante+de+Engenharia +da+Computação;Sempre+aprendendo+algo+novo!">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Desenvolvedor+Java;Estudante+de+Engenharia+da+Computação;Sempre+aprendendo+algo+novo!">
 </p>
 
 ---
@@ -34,7 +34,7 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=LuciosGIT&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=LuciosGIT&theme=tokyonight" alt="GitHub Streak"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuciosGIT&layout=compact&theme=tokyonight" alt="Linguagens mais usadas"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LuciosGIT&theme=tokyonight" alt="Linguagens mais usadas"/>
 </div>
 
 ---
